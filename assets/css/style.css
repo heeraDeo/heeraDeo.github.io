@@ -5160,7 +5160,7 @@ input[type=radio] {
 .fancybox-item .fancybox__icon {
   font-size: 55px;
   line-height: 1;
-  color: #0092ff;
+  color: #ff0055;
   margin-bottom: 25px;
 }
 
@@ -7708,6 +7708,12 @@ input[type=radio] {
   padding: 48px 30px 37px;
   background-color: #f1f5fe;
 }
+/* .awards .fancybox-item2 {
+  border-radius: 5px;
+  text-align: center;
+  padding: 30px 20px ;
+  background-color: #f1f5fe;
+} */
 
 .awards .fancybox-item .fancybox__icon__img {
   display: -webkit-box;
