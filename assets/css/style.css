@@ -7708,12 +7708,9 @@ input[type=radio] {
   padding: 48px 30px 37px;
   background-color: #f1f5fe;
 }
-/* .awards .fancybox-item2 {
-  border-radius: 5px;
-  text-align: center;
-  padding: 30px 20px ;
-  background-color: #f1f5fe;
-} */
+
+
+
 
 .awards .fancybox-item .fancybox__icon__img {
   display: -webkit-box;
@@ -7739,6 +7736,7 @@ input[type=radio] {
   font-size: 18px;
 }
 
+
 .awards .fancybox-item .fancybox__desc {
   font-size: 14px;
   margin-bottom: 0;
@@ -7760,6 +7758,9 @@ input[type=radio] {
   width: 15px;
   height: 30px;
   background-color: #0092ff;
+}
+html {
+  scroll-behavior: smooth;
 }
 
 .awards .pinned-ribbon:before {
