@@ -7712,6 +7712,8 @@ input[type=radio] {
   }
 }
 
+
+
 /*-------------------------
    Awards
 -------------------------*/
@@ -7721,9 +7723,6 @@ input[type=radio] {
   padding: 48px 30px 37px;
   background-color: #f1f5fe;
 }
-
-
-
 
 .awards .fancybox-item .fancybox__icon__img {
   display: -webkit-box;
