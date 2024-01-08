@@ -1286,6 +1286,12 @@ h6 {
   color: #f9f9f9;
   margin-bottom: 32px;
 }
+.pagetitle__desc2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #f9f9f9;
+  margin-bottom: 32px;
+}
 
 .page-title {
   padding-top: 260px;
@@ -4528,6 +4534,13 @@ input[type=radio] {
   line-height: 1.1;
   color: #ffffff;
   margin-bottom: 25px;
+}
+.slider .slide__title3 {
+  font-size: 35px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #ffffff;
+  margin-bottom: 55px;
 }
 .slider .slide__title {
   font-size: 40px;
